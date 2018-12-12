@@ -40,26 +40,27 @@ import java.util.ArrayList;
  * e) Run and print true
  * f) Run and prints nothing
  *
+ * Please, uncomment the code below to analyze the answer
  */
-class Question6 {
-
-	public static void main(String[] args) {
-		
-		ArrayList<String> existing = new ArrayList<>();
-		
-		for(String arg : args) {
-			if(new E().exists(arg))
-				existing.add(arg);
-		}
-	}
-
-}
-
-import java.io.*;
-
-class E{
-	public boolean exists(String name) {
-		File f = new File(name);
-		return f.exists();
-	}
-}
+//class Question6 {
+//
+//	public static void main(String[] args) {
+//		
+//		ArrayList<String> existing = new ArrayList<>();
+//		
+//		for(String arg : args) {
+//			if(new E().exists(arg))
+//				existing.add(arg);
+//		}
+//	}
+//
+//}
+//
+//import java.io.*;
+//
+//class E{
+//	public boolean exists(String name) {
+//		File f = new File(name);
+//		return f.exists();
+//	}
+//}
