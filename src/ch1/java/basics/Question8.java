@@ -1,6 +1,6 @@
 package ch1.java.basics;
 
-import java.util.ArrayList;
+//import java.util.ArrayList;
 
 /**
  * @author Mariana Azevedo

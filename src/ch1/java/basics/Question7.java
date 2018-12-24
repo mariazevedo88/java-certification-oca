@@ -28,9 +28,9 @@ public class Question7 {
 
 	int Question7 = 305;
 	
-	void Question7() {
-		System.out.println(Question7);
-	}
+//	void Question7() {
+//		System.out.println(Question7);
+//	}
 	
 	public static void main(String[] args) {
 		new Question7();

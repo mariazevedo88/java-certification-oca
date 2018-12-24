@@ -23,6 +23,7 @@ package ch1.java.basics;
 public class Question5 {
 
 	static int i = 3;
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		for(new Question5().i = 10; new Question5().i < 100; new Question5().i++) {
 			System.out.println(i);
