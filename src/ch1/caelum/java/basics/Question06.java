@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.caelum.java.basics;
 
 //import java.util.ArrayList;
 
@@ -42,7 +42,7 @@ package ch1.java.basics;
  *
  * Please, uncomment the code below to analyze the answer
  */
-//class Question6 {
+class Question06 {
 //
 //	public static void main(String[] args) {
 //		
@@ -54,13 +54,13 @@ package ch1.java.basics;
 //		}
 //	}
 //
-//}
+}
 //
 //import java.io.*;
 //
-//class E{
+class E{
 //	public boolean exists(String name) {
 //		File f = new File(name);
 //		return f.exists();
 //	}
-//}
+}

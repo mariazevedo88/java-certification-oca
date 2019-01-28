@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.caelum.java.basics;
 
 /**
  * @author Mariana Azevedo
@@ -20,12 +20,12 @@ package ch1.java.basics;
  * d) Compiles and prints the numbers from 10 to 99 (x)
  *
  */
-public class Question5 {
+public class Question05 {
 
 	static int i = 3;
 	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
-		for(new Question5().i = 10; new Question5().i < 100; new Question5().i++) {
+		for(new Question05().i = 10; new Question05().i < 100; new Question05().i++) {
 			System.out.println(i);
 		}
 	}

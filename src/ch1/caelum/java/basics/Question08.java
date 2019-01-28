@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.caelum.java.basics;
 
 //import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.ocawiley.java.basics;
 
 /**
  * Book OCA-Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808

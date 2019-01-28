@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.caelum.java.basics;
 
 /**
  * @author Mariana Azevedo
@@ -22,7 +22,7 @@ package ch1.java.basics;
  * e) The code compiles and runs, printing from 0 to 19 and then 19 again
  *
  */
-public class Question3 {
+public class Question03 {
 
 	public static void main(String[] args) {
 		for (int i=0; i<20; i++) {

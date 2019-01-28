@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.ocawiley.java.basics;
 
 /**
  * Book OCA-Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808
@@ -24,7 +24,7 @@ package ch1.java.basics;
  * @since 11/12/2018
  *
  */
-public class Question9 {
+public class StringBuilderQuestion {
 
 	public static void main(String[] args) {
 		String s1 = "Java";

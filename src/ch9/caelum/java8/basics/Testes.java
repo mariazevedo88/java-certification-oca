@@ -1,4 +1,4 @@
-package ch9.java8.basics;
+package ch9.caelum.java8.basics;
 
 /**
  * Alura's Course - Ao tentar compilar e executar o seguinte código, o que é impresso?

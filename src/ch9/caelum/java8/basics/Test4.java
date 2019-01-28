@@ -1,4 +1,4 @@
-package ch9.java8.basics;
+package ch9.caelum.java8.basics;
 
 /**
  * Alura's Course - Qual dos codigos a seguir NAO imprime >00012.45<? Escolha 1 alternativa:

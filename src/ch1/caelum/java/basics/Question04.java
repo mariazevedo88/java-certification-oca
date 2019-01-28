@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.caelum.java.basics;
 
 /**
  * @author Mariana Azevedo
@@ -20,7 +20,7 @@ package ch1.java.basics;
  * d) The code compiles, but it throws error
  *
  */
-public class Question4 {
+public class Question04 {
 
 	static int x = 15;
 

@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.caelum.java.basics;
 
 /**
  * @author Mariana Azevedo
@@ -24,7 +24,7 @@ package ch1.java.basics;
  * f) The code compiles and, as it runs, prints a blank line
  *
  */
-public class Question7 {
+public class Question07 {
 
 	int Question7 = 305;
 	
@@ -33,6 +33,6 @@ public class Question7 {
 //	}
 	
 	public static void main(String[] args) {
-		new Question7();
+		new Question07();
 	}
 }

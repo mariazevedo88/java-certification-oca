@@ -1,4 +1,4 @@
-package ch9.java8.basics;
+package ch9.caelum.java8.basics;
 
 /**
  * Alura's Course - O que acontece ao compilar e executar o código a seguir?

@@ -1,4 +1,4 @@
-package ch1.java.basics;
+package ch1.caelum.java.basics;
 
 /**
  * @author Mariana Azevedo
@@ -18,9 +18,10 @@ package ch1.java.basics;
  * a) Compilation error (x)
  * b) The code compiles and runs, printing from 0 to 19 and then 19
  * c) The code compiles and runs, printing from 0 to 19, then 19, and then 'finished'
+ * d) The code compiles and runs, printing from 0 to 19 and then a compilation error occurs
  * 
  */
-public class Question2 {
+public class Question02 {
 
 	public static void main(String[] args) {
 		for (int i=0; i<20; i++) 
