@@ -6,8 +6,8 @@ package ch1.caelum.java.basics;
  * @author Mariana Azevedo
  * @since 03/12/2018
  * 
- * Question: choose the appropriate option when trying to compile and run the following file 
- * without any parameters on the command line, such as java D.
+ * Question 1.2.1 (page 16) - Choose the appropriate option when trying to compile and run the following file 
+ * without any parameters on the command line, such as java D:
  * 
  * import java.util.ArrayList;
  * 

@@ -1,4 +1,4 @@
-package ch1.caelum.java.basics.model;
+package model;
 
 public class A {
 	

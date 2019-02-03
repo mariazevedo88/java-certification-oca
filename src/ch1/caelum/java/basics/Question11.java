@@ -1,12 +1,12 @@
 package ch1.caelum.java.basics;
 
-import ch1.caelum.java.basics.model.A;
+import model.A;
 
 /**
  * @author Mariana Azevedo
  * @since 27/01/2019
  * 
- * Choose the appropriate option when attempting to compile and run the Test class. 
+ * Question 1.4.1 (page 38) - Choose the appropriate option when attempting to compile and run the Test class. 
  * File in the current directory:
  * 
  * import model.A;

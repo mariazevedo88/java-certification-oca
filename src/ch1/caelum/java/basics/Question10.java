@@ -4,7 +4,7 @@ package ch1.caelum.java.basics;
  * @author Mariana Azevedo
  * @since 27/01/2019
  * 
- * Choose the appropriate option to run the class A.java present in directory b, 
+ * Question 1.3.4 (page 28) - Choose the appropriate option to run the class A.java present in directory b, 
  * which was compressed into a file called program.jar, and there is no manifest file:
  * 
  * a) java jar program.jar

@@ -4,17 +4,17 @@ package ch1.caelum.java.basics;
  * @author Mariana Azevedo
  * @since 03/12/2018
  * 
- * Question: choose the appropriate option when attempting to compile and run the following file
+ * Question 1.2.2 (page 17) - Choose the appropriate option when attempting to compile and run the following file:
  * 
  * int Question7 = 305;
-	
-   void Question7() {
-	   System.out.println(Question7);
-   }
-	
-   public static void main(String[] args) {
-	   new Question7();
-   }
+ *	
+ *  void Question7() {
+ *	   System.out.println(Question7);
+ * }
+ *	
+ * public static void main(String[] args) {
+ *	   new Question7();
+ * }
  * 
  * a) The code doesn't compile: errors on lines 2, 4, 5, and 6
  * b) The code doesn't compile: error on line 5

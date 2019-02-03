@@ -4,7 +4,7 @@ package ch1.caelum.java.basics;
  * @author Mariana Azevedo
  * @since 27/01/2019
  * 
- * Choose an appropriate option when compile and run the following file:
+ * Question 1.3.3 (page 27) - Choose an appropriate option when compile and run the following file:
  * 
  * a) Does not compile: array has no member length
  * b) Does not compile: the println method can not print an array

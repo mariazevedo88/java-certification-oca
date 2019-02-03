@@ -4,8 +4,8 @@ package ch1.caelum.java.basics;
  * @author Mariana Azevedo
  * @since 03/12/2018
  * 
- * Question: choose the appropriate option when attempting to compile 
- * and run the following code
+ * Question 1.1.4 (page 8) - Choose the appropriate option when attempting to compile 
+ * and run the following code:
  * 
  * static int x = 15;
 
