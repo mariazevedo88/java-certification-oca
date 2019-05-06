@@ -18,18 +18,17 @@ package chp.two.caelum.data.types;
  * b) Compiles and prints 0, or the age that is passed on the command line.
  * c) Compiles and prints the age that is passed on the command line.
  * d) Compiles and prints "???", or prints the age.
- * 
  */
 public class Question02 {
 
 	public static void main(String[] args) {
-		int age;
-		if(args.length > 0) {
-			age = Integer.parseInt(args[0]);
-		}else {
-			System.err.println("???");
-		}
+		//int age;
+		//if(args.length > 0) {
+			//age = Integer.parseInt(args[0]);
+		//}else {
+			//System.err.println("???");
+		//}
 		
-		//System.out.println(age); //comment because doesn't compile
+		//System.out.println(age); //commented because doesn't compile
 	}
 }
