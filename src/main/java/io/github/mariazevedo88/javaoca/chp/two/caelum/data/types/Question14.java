@@ -7,14 +7,14 @@ package io.github.mariazevedo88.javaoca.chp.two.caelum.data.types;
  * Question 1.2.14 (page 74) - Choose the appropriate option when attempting to compile 
  * and run the following file:
  *
- * class D{
+ * class B{
  * }
  *
- * class Question14 {
+ * class A {
  *	  public static void main(String[] args) {
- *		D d;
+ *		B b;
  *		for(int i = 0; i<10; i++)
- *			d = new D();
+ *			b = new B();
  *		System.out.println("end!");
  *	  }
  * }
