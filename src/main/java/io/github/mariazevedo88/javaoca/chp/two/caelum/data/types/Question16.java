@@ -22,9 +22,12 @@ package io.github.mariazevedo88.javaoca.chp.two.caelum.data.types;
  * b) Compiles and no B-type objects are created.
  * c) Compile, create 100 and throw away all Type B objects upon reaching System.out.
  */
+class F{
+}
+
 public class Question16 {
 	public static void main(String[] args) {
-		B[] bs = new B[100];
+		F[] bs = new F[100];
 		System.out.println("end!");
 	}
 }
