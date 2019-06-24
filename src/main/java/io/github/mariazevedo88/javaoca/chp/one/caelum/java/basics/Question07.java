@@ -6,14 +6,16 @@ package io.github.mariazevedo88.javaoca.chp.one.caelum.java.basics;
  * 
  * Question 1.2.2 (page 17) - Choose the appropriate option when attempting to compile and run the following file:
  * 
- * int Question7 = 305;
+ * class Test {
+ * 	  int Test = 305;
  *	
- *  void Question7() {
- *	   System.out.println(Question7);
- * }
+ *    void Test() {
+ *	     System.out.println(Question7);
+ *    }
  *	
- * public static void main(String[] args) {
- *	   new Question7();
+ *    public static void main(String[] args) {
+ *	     new Test();
+ *    }
  * }
  * 
  * a) The code doesn't compile: errors on lines 2, 4, 5, and 6
@@ -24,7 +26,7 @@ package io.github.mariazevedo88.javaoca.chp.one.caelum.java.basics;
  * f) The code compiles and, as it runs, prints a blank line
  *
  */
-public class Question07 {
+class Question07 {
 
 	int Question7 = 305;
 	

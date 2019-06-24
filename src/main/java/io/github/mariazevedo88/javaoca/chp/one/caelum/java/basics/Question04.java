@@ -9,12 +9,14 @@ import org.apache.log4j.Logger;
  * Question 1.1.4 (page 8) - Choose the appropriate option when attempting to compile 
  * and run the following code:
  * 
- * static int x = 15;
-
-   public static void main(String[] x) {
-	  x = 200;
-	  System.out.println(x);
-   }
+ * class Test {
+ *   static int x = 15;
+ *
+ *   public static void main(String[] x) {
+ *	    x = 200;
+ *	    System.out.println(x);
+ *   }
+ * }
  * 
  * a) The code compiles and runs, printing 200
  * b) The code compiles and runs, printing 15
@@ -22,7 +24,7 @@ import org.apache.log4j.Logger;
  * d) The code compiles, but it throws error
  *
  */
-public class Question04 {
+class Question04 {
 	
 	private static final Logger logger = Logger.getLogger(Question04.class.getName());
 	static int x = 15;

@@ -30,6 +30,7 @@ package io.github.mariazevedo88.javaoca.chp.two.caelum.data.types;
  * d) Compiles, run and prints "empty".
  */
 class M{
+	@SuppressWarnings("unused")
 	void imprime() {
 		String msg;
 		//if(!msg.isEmpty())

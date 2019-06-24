@@ -14,8 +14,7 @@ import io.github.mariazevedo88.javaoca.model.basic.Client;
  * import model.basic.Client;
  * import model.basic.Client;
  * 
- * public class Test {
- *
+ * class Test {
  *	  public static void main(String[] args) {
  *		  System.out.println("Welcome " + new Client().name);
  *	  }
@@ -23,7 +22,7 @@ import io.github.mariazevedo88.javaoca.model.basic.Client;
  * 
  * In model/basic/Client.java file:
  * 
- * public class Client {
+ * class Client {
  * 	  public String name="guilherme";
  * }
  * 
@@ -32,7 +31,7 @@ import io.github.mariazevedo88.javaoca.model.basic.Client;
  * c) The code compiles and prints "Welcome guilherme", since there is no ambiguity (x)
  *
  */
-public class Question14 {
+class Question14 {
 	
 	private static final Logger logger = Logger.getLogger(Question14.class.getName());
 

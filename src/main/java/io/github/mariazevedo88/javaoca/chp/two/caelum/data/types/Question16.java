@@ -26,6 +26,7 @@ class F{
 }
 
 public class Question16 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		F[] bs = new F[100];
 		System.out.println("end!");

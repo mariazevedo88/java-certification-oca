@@ -28,6 +28,7 @@ class D{
 }
 
 class Question14 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		D d;
 		for(int i = 0; i<10; i++)

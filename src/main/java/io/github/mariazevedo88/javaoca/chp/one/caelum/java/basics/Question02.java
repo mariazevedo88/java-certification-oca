@@ -9,13 +9,15 @@ import org.apache.log4j.Logger;
  * Question 1.1.2 (page 6) - Choose the appropriate option when attempting to compile 
  * and run the following code:
  * 
- * public static void main(String[] args) {
-		for (int i=0; i<20; i++) 
-			System.out.println(i);
-			//if this section is uncommented, a compilation error occurs
-			//System.out.println(i);
-		System.out.println("finished");
-   }
+ * class Test {
+ *    public static void main(String[] args) {
+ *		 for (int i=0; i<20; i++) 
+ *			System.out.println(i);
+ *			//if this section is uncommented, a compilation error occurs
+ *			//System.out.println(i);
+ *		 System.out.println("finished");
+ *    }
+ * }
  * 
  * a) Compilation error (x)
  * b) The code compiles and runs, printing from 0 to 19 and then 19
@@ -23,7 +25,7 @@ import org.apache.log4j.Logger;
  * d) The code compiles and runs, printing from 0 to 19 and then a compilation error occurs
  * 
  */
-public class Question02 {
+class Question02 {
 	
 	private static final Logger logger = Logger.getLogger(Question02.class.getName());
 

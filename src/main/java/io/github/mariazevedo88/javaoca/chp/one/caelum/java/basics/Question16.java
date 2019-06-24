@@ -11,7 +11,6 @@ import org.apache.log4j.Logger;
  * package A;
  * 
  * class B {
- *
  *	  public static void main(String[] a) {
  *		  System.out.println("running");
  *	  }
@@ -23,7 +22,7 @@ import org.apache.log4j.Logger;
  * d) Compile and run (x)
  *
  */
-public class Question16 {
+class Question16 {
 
 	private static final Logger logger = Logger.getLogger(Question16.class.getName());
 	

@@ -29,6 +29,7 @@ class E {
 
 public class Question15 {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		E e = new E();
 		for(int i = 0; i<10; i++)

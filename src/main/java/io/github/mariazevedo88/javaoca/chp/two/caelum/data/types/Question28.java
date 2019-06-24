@@ -22,6 +22,7 @@ package io.github.mariazevedo88.javaoca.chp.two.caelum.data.types;
  * e) Compiles and prints another result that wasn't mentioned in these alternatives.
  */
 class Question28 {
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		String empty;
 		//String full = "Welcome " + empty;

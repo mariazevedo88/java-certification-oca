@@ -34,10 +34,9 @@ import org.apache.log4j.Logger;
  * d) The whole code compiles and rotates by printing Welcome!. Since none of the imported classes is used in the code, there is no ambiguity
  * 
  */
-public class Question12 {
-	
+class Question12 {
 	private static final Logger logger = Logger.getLogger(Question12.class.getName());
-
+	
 	public static void main(String[] args) {
 		logger.info("Welcome!");
 	}

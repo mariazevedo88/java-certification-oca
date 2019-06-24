@@ -11,9 +11,9 @@ import io.github.mariazevedo88.javaoca.model.A;
  * 
  * import model.A;
  * class Test{
- * 	 public static void main(String[] args){
+ * 	  public static void main(String[] args){
  *       new A("guilherme").print();
- *   } 
+ *    } 
  * }
  * 
  * package model;
@@ -21,10 +21,10 @@ import io.github.mariazevedo88.javaoca.model.A;
  * class A {
  * 	 private String name;
  *   A(String name){
- *       this.name = name;
+ *      this.name = name;
  *   }
  *   public void print(){
- *       System.out.println(name);
+ *      System.out.println(name);
  *   }    
  * }
  * 
@@ -34,8 +34,7 @@ import io.github.mariazevedo88.javaoca.model.A;
  * d) Runs and prints "Guilherme".
  * 
  */
-public class Question11 {
-
+class Question11 {
 	public static void main(String[] args) {
 		//new A("guilherme").print();
 		new A();

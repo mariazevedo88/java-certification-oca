@@ -11,8 +11,7 @@ import io.github.mariazevedo88.javaoca.model.basic.Client;
  * 
  * Question 1.4.3 (page 40) - Choose the appropriate option to save and compile the following file:
  * 
- * public class Test {
- *
+ * class Test {
  *	  public static void main(String[] args) {
  *		  System.out.println("Welcome " + new Client().name);
  *	  }
@@ -35,7 +34,7 @@ import io.github.mariazevedo88.javaoca.model.basic.Client;
  * c) The code compiles and prints Welcome guilherme. (x)
  *
  */
-public class Question13 {
+class Question13 {
 	
 	private static final Logger logger = Logger.getLogger(Question13.class.getName());
 
