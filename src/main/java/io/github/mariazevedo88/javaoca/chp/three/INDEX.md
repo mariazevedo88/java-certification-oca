@@ -25,7 +25,8 @@
 - [Question17.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question17.java)
 - [Question18.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question18.java)
 - [Question19.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question19.java)
-
+- [Question20.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question20.java)
+- [Question21.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question21.java)
 
 ### Exercises from Book OCA-Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808
 
