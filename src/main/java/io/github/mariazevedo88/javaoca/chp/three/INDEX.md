@@ -27,6 +27,22 @@
 - [Question19.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question19.java)
 - [Question20.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question20.java)
 - [Question21.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question21.java)
+- [Question22.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question22.java)
+- [Question23.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question23.java)
+- [Question24.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question24.java)
+- [Question25.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question25.java)
+- [Question26.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question26.java)
+- [Question27.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question27.java)
+- [Question28.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question28.java)
+- [Question29.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question29.java)
+- [Question30.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question30.java)
+- [Question31.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question31.java)
+- [Question32.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question32.java)
+- [Question33.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question33.java)
+- [Question34.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question34.java)
+- [Question35.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question35.java)
+- [Question36.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question36.java)
+- [Question37.java](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/caelum/operators/Question37.java)
 
 ### Exercises from Book OCA-Oracle Certified Associate Java SE 8 Programmer I Study Guide Exam 1Z0-808
 
