@@ -21,6 +21,6 @@ package io.github.mariazevedo88.javaoca.chp.three.caelum.operators;
  */
 public class Question21 {
 	public static void main(String[] args) {
-		System.out.println(((!(true==false))==true ? 1 : 0)==0);
+		//System.out.println(((!(true==false))==true ? 1 : 0)==0);
 	}
 }

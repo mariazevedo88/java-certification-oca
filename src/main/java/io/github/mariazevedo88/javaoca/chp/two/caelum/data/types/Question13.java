@@ -32,7 +32,7 @@ package io.github.mariazevedo88.javaoca.chp.two.caelum.data.types;
 class C {
 	int c;
 	void c(int c) {
-		c = c;
+		//c = c;
 	}
 }
 
