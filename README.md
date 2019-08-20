@@ -9,7 +9,7 @@ A project of exercises from books specialized on the OCA Exam 1Z0-808 program (J
 3. [Chapter 03 - Using Operators and Decision Constructs](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/three/INDEX.md)
 4. [Chapter 04 - Creating and Using Arrays](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/four/INDEX.md)
 5. [Chapter 05 - Using Loop Constructs](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/five/INDEX.md)
-6. Chapter 06 - Working with Methods and Encapsulation
+6. [Chapter 06 - Working with Methods and Encapsulation](https://github.com/mariazevedo88/java-certification-oca/blob/master/src/main/java/io/github/mariazevedo88/javaoca/chp/six/INDEX.md)
 7. Chapter 07 - Working with Inheritance
 8. Chapter 08 - Handling Exceptions
 9. Chapter 09 - Java 8/Java Basics
