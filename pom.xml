@@ -5,8 +5,17 @@
 	<groupId>io.github.mariazevedo88</groupId>
 	<artifactId>java-certification-oca</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
 	<name>java-certification-oca</name>
 	<description>Project with exercises to study to Oracle Certified Java Associate program</description>
+	
+	<developers>
+		<developer>
+			<name>Mariana Azevedo</name>
+			<email>mariana@bsi.ufla.br</email>
+			<timezone>UTC-03:00</timezone>
+		</developer>
+	</developers>
 
 	<properties>
 		<java.version>1.8</java.version>
